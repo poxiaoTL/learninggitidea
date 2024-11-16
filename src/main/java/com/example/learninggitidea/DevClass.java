@@ -14,5 +14,6 @@ public class DevClass {
         System.out.println("这是DevClass");
         System.out.println("这是远程的噢");
         System.out.println("这是最新版本：2.0");
+        System.out.println("这是最新版本：3.0");
     }
 }
