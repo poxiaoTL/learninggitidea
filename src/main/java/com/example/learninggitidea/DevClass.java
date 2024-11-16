@@ -11,5 +11,7 @@ package com.example.learninggitidea;
 public class DevClass {
     public static void main(String[] args) {
         System.out.println("DevClass");
+        System.out.println("这是DevClass");
+        System.out.println("这是最新版本：2.0");
     }
 }
